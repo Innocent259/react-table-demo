@@ -1,9 +1,10 @@
 import './App.css';
+import BasicTable from './components/ReactTable';
 
 function App() {
   return (
     <div className="App">
-      Hello
+      <BasicTable />
     </div>
   );
 }
