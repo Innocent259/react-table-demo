@@ -1,4 +1,4 @@
-[{"id":1,"first_name":"Pyotr","last_name":"Milthorpe","email":"pmilthorpe0@globo.com","gender":"Male","ip_address":"15.188.43.5"},
+export const mockedData = [{"id":1,"first_name":"Pyotr","last_name":"Milthorpe","email":"pmilthorpe0@globo.com","gender":"Male","ip_address":"15.188.43.5"},
 {"id":2,"first_name":"Crysta","last_name":"Pieterick","email":"cpieterick1@answers.com","gender":"Female","ip_address":"161.37.97.126"},
 {"id":3,"first_name":"Shalom","last_name":"Acheson","email":"sacheson2@disqus.com","gender":"Male","ip_address":"156.166.103.193"},
 {"id":4,"first_name":"Addy","last_name":"Deedes","email":"adeedes3@columbia.edu","gender":"Male","ip_address":"167.39.160.237"},
